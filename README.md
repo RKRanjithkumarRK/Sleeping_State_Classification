@@ -92,10 +92,10 @@ Automatic detection of abnormal sleep patterns
 REST API for deployment in clinical apps
 
 👤 Author
-Your Name
+Ranjithkumar R
 
 B.Tech in Artificial Intelligence and Data Science
 
-Email: [your_email@example.com]
+Email: [ranjithkumar24072004@gmail.com]
 
-GitHub: [your_github_profile_link]
+GitHub: [https://github.com/RKRanjithkumarRK/Sleeping_State_Classification/edit/main/README.md]
